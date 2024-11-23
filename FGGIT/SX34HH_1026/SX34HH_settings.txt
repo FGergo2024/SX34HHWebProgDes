@@ -1,7 +1,8 @@
-Itt írom le az alapvető beállításokat, amiket én ajánlani tudok a kezdő web designer-nek.
+Itt írom le az alapvető beállításokat, amiket én elvégeztem.
 
-    1. Sötét téma választás(opcionális(szemkönnyítésnek))
-    2. Live szerver
-    3. 
+    1. Sötét téma választás(szemkönnyítésnek)
+    2. Live szerver (weboldal élő megfigyelésére)
+    3. Prettier (automentés funkció)
 
-Mivel ez egy kód szerkesztési célt szolgáló szoftver egyéb bővitményekkel is bővítthető. Több program nyelvvekkel is lehetséges a használata.
+
+
