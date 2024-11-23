@@ -1,0 +1,17 @@
+body
+{
+    background-image: url(/10.Task/kepek/gyümölcsök.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+}
+
+.meretnov
+{
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.szinez
+{
+    color: aqua;
+}
