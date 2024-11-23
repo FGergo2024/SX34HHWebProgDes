@@ -1,0 +1,34 @@
+img 
+{
+    
+    float: left;
+
+}
+
+.keret
+{
+
+    border: 5px solid red;
+
+}
+
+p
+{
+
+    text-align: justify;
+
+}
+
+.lentikep
+{
+    margin-right: 0;
+    position: absolute;
+    top: 300px;
+}
+
+.oldalmax
+{
+
+    max-width: 28%;
+
+}
